@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## I am Victor Castro
 #### Student @ PSU | IT Specalist 
 
-"In the end, everything will be ok. If it's not ok, it's not yet the end." 
+"In the end, everything will be ok. If it's not ok, it's not yet the end." ~ Fernando Sabino
 
 ### I have experience in - </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
