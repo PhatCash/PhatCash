@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 <br />
 
-**Contact Me:** [Email](vicastro@pdx.edu)
+**Contact Me:** <u>vicastro@pdx.edu | victor.castro@townsendfarms.com</u>
