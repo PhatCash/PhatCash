@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ### I have experience in - </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ### I have worked with - </br>
