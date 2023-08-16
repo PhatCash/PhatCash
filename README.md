@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="middle" alt="Animated Coding Gif" width="100%" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
+<br />
 
-## Hello, World! Hola, Mundo! 
+<h1 align="middle"> Hello, World! Hola, Mundo! </h1>
 
 <a href="https://www.linkedin.com/in/victor-castro-hernandez/">
   <img align="left" alt="Victor's Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -44,7 +46,7 @@ Here are some ideas to get you started:
 <br />
 
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=phatcash&show_icons=true&locale=en&layout=compact" alt="Github programming stats" /></p>
-<br></br>
+<br />
 
 
 **Contact Me:** <u>vicastro@pdx.edu | victor.castro@townsendfarms.com</u>
