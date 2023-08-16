@@ -43,4 +43,8 @@ Here are some ideas to get you started:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 <br />
 
+<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=phatcash&show_icons=true&locale=en&layout=compact" alt="Github programming stats" /></p>
+<br></br>
+
+
 **Contact Me:** <u>vicastro@pdx.edu | victor.castro@townsendfarms.com</u>
