@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 ## Hello, World! Hola, Mundo! 
 
 <a href="https://www.linkedin.com/in/victor-castro-hernandez/">
-  <img align="left" alt="Victor's Linkedin" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Victor's Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/PhatCash">
-  <img align="left" alt="Victor's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Victor's Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/_phatcash/">
-  <img align="left" alt="Victor's Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  <img align="left" alt="Victor's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
 </a>
 <br />
 
