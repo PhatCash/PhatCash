@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="middle" alt="Animated Coding Gif" width="100%" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
-<br />
 
 <h1 align="middle"> Hello, World! Hola, Mundo! </h1>
 
@@ -31,21 +30,24 @@ Here are some ideas to get you started:
 ## I am Victor Castro
 #### Student @ PSU | IT Specalist 
 
-"In the end, everything will be ok. If it's not ok, it's not yet the end." ~ Fernando Sabino
+"<i>In the end, everything will be ok. If it's not ok, it's not yet the end.</i>" ~ **Fernando Sabino**
 
-### I have experience in - </br>
+### I have experience in - <br />
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 
-### I have worked with - </br>
+### I have worked with - <br />
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 <br />
 
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=phatcash&show_icons=true&locale=en&layout=compact" alt="Github programming stats" /></p>
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phatcash&show_icons=true&locale=en&layout=compact" alt="Github programming stats" />
+</div>
+
 <br />
 
 
