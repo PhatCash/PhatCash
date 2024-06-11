@@ -28,9 +28,13 @@ Here are some ideas to get you started:
 <br />
 
 ## I am Victor Castro
-#### Student @ PSU | IT Specalist 
+#### PSU Alumni | IT Specalist 
 
-"<i>In the end, everything will be ok. If it's not ok, it's not yet the end.</i>" ~ **Fernando Sabino**
+🔭 I’m currently working on my personal portfolio using three.js
+
+🌱 I’m currently learning how to play the accordion 
+
+💬 Ask me about my motorcycle adventures
 
 ### I have experience in - <br />
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
