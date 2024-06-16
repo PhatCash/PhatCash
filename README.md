@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ## I am Victor Castro
 #### PSU Alumni | IT Specalist 
 
-🔭 I’m currently working on my personal portfolio using three.js
+🔭 New CS graduate
 
-🌱 I’m currently learning how to play the accordion 
+⚡ I’m currently learning how to play the accordion 
 
 💬 Ask me about my motorcycle adventures
 
