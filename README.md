@@ -38,8 +38,14 @@ Here are some ideas to get you started:
 
 ### I have experience in - <br />
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=C%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=Tailwind%20css)
+![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)
+![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
+![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
 ### I have worked with - <br />
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
