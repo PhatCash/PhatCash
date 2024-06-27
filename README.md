@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
-![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
 ### I have worked with - <br />
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 <br />
