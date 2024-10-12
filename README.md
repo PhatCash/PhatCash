@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## I am Victor Castro
 #### PSU Alumni | IT Specalist 
 
-🔭 New CS graduate
+🔭 Exploring new ways to reach 1k for core exercises before the year ends
 
 ⚡ I’m currently learning how to play the accordion 
 
@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 <br />
 
 
-**Contact Me:** <u>vicastro@pdx.edu | victor.castro@townsendfarms.com</u>
+**Contact Me:** <u>victorcastro.pdx@gmail.com | victor.castro@townsendfarms.com</u>
